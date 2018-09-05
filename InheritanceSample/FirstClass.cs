@@ -1,4 +1,6 @@
-﻿namespace InheritanceSample
+﻿using System.Security.Cryptography;
+
+namespace InheritanceSample
 {
     internal class FirstClass
     {
@@ -21,5 +23,13 @@
         {
             return (number1 + number2) * 10;
         }
+        SecondClass s1 = new SecondClass();
+
+        public SecondClass S1
+        {
+            get { return s1; }
+            set { s1 = value; }
+        }
+        
     }
 }

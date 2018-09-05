@@ -1,0 +1,5 @@
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\Exceptions\obj\Debug\Exceptions.pdb

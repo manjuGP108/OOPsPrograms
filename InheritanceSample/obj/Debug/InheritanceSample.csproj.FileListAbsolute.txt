@@ -9,3 +9,11 @@ C:\MyPracticeVisualStudioProjects\AbstractClassAndOtherPracticeProjectsHere\Inhe
 C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\AbstractClassAndOtherPracticeProjectsHere\InheritanceSample\bin\Debug\InheritanceSample.exe.config
 C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\AbstractClassAndOtherPracticeProjectsHere\InheritanceSample\obj\Debug\InheritanceSample.exe
 C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\AbstractClassAndOtherPracticeProjectsHere\InheritanceSample\obj\Debug\InheritanceSample.pdb
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\InheritanceSample\bin\Debug\InheritanceSample.exe.config
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\InheritanceSample\obj\Debug\InheritanceSample.exe
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\InheritanceSample\obj\Debug\InheritanceSample.pdb
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\InheritanceSample\bin\Debug\InheritanceSample.exe
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\InheritanceSample\bin\Debug\InheritanceSample.pdb
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\InheritanceSample\bin\Debug\AbstractClassesAndOtherPracticeProjectsHere.exe
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\InheritanceSample\bin\Debug\AbstractClassesAndOtherPracticeProjectsHere.pdb
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\InheritanceSample\obj\Debug\InheritanceSample.csprojResolveAssemblyReference.cache

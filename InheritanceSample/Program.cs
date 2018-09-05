@@ -7,6 +7,8 @@ namespace InheritanceSample
     {
         private static void Main(string[] args)
         {
+            // We have same methods same method definition in parent classes and child classes. Since we have created
+            // the object of child class so methods of child class will be called and not the methods of the parent class.
             var T3 = new ThirdClass();
             var T3Sum = T3.Add(1, 2);
             var T3Sub = T3.Sub(2, 1);

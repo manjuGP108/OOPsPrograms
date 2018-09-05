@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "Interfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliminateDuplicateCharactersFromString", "EliminateDuplicateCharactersFromString\EliminateDuplicateCharactersFromString.csproj", "{C7D8FCC7-2D33-4B92-BAF8-89BA71983B1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{1B094080-295B-4915-8B69-72C1087141B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C7D8FCC7-2D33-4B92-BAF8-89BA71983B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7D8FCC7-2D33-4B92-BAF8-89BA71983B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7D8FCC7-2D33-4B92-BAF8-89BA71983B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B094080-295B-4915-8B69-72C1087141B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B094080-295B-4915-8B69-72C1087141B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B094080-295B-4915-8B69-72C1087141B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B094080-295B-4915-8B69-72C1087141B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

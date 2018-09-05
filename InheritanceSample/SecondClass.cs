@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace InheritanceSample
+﻿namespace InheritanceSample
 {
-    class SecondClass : FirstClass
+    internal class SecondClass : FirstClass
     {
         private int SecondClassInt1;
         public int SecondClassInt2;
+
         public int Add(int number1, int number2)
         {
             return (number1 + number2) * 2;
