@@ -1,0 +1,6 @@
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\RegularExpressions\obj\Debug\RegularExpressions.csprojResolveAssemblyReference.cache
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\RegularExpressions\obj\Debug\RegularExpressions.pdb
