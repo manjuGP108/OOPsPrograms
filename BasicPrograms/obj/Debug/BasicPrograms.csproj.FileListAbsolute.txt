@@ -1,0 +1,6 @@
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe.config
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\BasicPrograms\obj\Debug\BasicPrograms.csprojResolveAssemblyReference.cache
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\BasicPrograms\bin\Debug\BasicPrograms.pdb
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\BasicPrograms\obj\Debug\BasicPrograms.exe
+C:\Users\KHN2\Desktop\Manju\MyPracticeVisualStudioProjects\OOPSConceptPrograms\BasicPrograms\obj\Debug\BasicPrograms.pdb
